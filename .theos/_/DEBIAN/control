@@ -1,0 +1,10 @@
+Package: com.0xkuj.imapssubscription
+Name: imapsSubscription
+Depends: mobilesubstrate
+Architecture: iphoneos-arm
+Description: An awesome MobileSubstrate tweak!
+Maintainer: U-OMRIK\Kujman
+Author: U-OMRIK\Kujman
+Section: Tweaks
+Version: 0.0.1
+Installed-Size: 117
